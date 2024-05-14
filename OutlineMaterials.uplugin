@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Outline Materials",
+	"Description": "오브젝트 외곽선 표시를 위한 포스트 프로세스 머터리얼 콘텐츠 전용 플러그인",
+	"Category": "Post Process",
+	"CreatedBy": "Eu4ng",
+	"CreatedByURL": "https://github.com/Eu4ng",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/E4-Unreal/plugin-outline-materials",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"NoCode": true
+}
